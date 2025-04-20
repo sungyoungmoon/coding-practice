@@ -2,7 +2,7 @@
 
 This repository contains solutions to coding interview practice problems in Java.
 
-## 📂 Structure
+## Structure
 
 Problems are organized by difficulty level (e.g., , , ).
 
@@ -10,7 +10,7 @@ Problems are organized by difficulty level (e.g., , , ).
 
 -  – Calculate the factorial of a given number.
 
-## 📌 How to Run
+## How to Run
 
 1. Compile the file:
    ```bash
