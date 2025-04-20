@@ -22,4 +22,4 @@ Problems are organized by difficulty level (e.g., , , ).
    java Main
    ```
 
-## 🚀 More problems coming soon!
+## More problems coming soon!
